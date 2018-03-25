@@ -1,4 +1,3 @@
-Meu primeiro site do GIT
+Meu primeiro site do GIT (atualizado)
 
-Alteração no readme para descrever melhor meu sistema.
-alteraçao feita no master
+
